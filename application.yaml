@@ -9,6 +9,7 @@ spec:
 
   source:
     repoURL: https://github.com/Berkantrkgl/dev-test.git
+    path: /
     targetRevision: HEAD
 
   destination:
