@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       labels:
-        app: myjob
+        app: argocd-demo
     spec:
       containers:
         - name: argocd-demo
